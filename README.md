@@ -39,11 +39,11 @@
 ## 🧠 About Me
 
 ```yaml
-name        : Shashikant Prajapati
-location    : India 🇮🇳
-education   : B.Tech (CS)
+name        : Shashikant
+location    : new delhi, India 🇮🇳
+education   : Bachelor of Science (BS) Degree in Data Science and Applications
 focus       : Full Stack Dev · GenAI · DSA
-currently   : Building ArenaMind AI — Smart Stadium Platform for FIFA 2026
+recentlly   : Building trekking managment application 
 open_to     : Collaborations, Open Source, Internships
 fun_fact    : I turn coffee ☕ into code 💻
 ```
