@@ -40,51 +40,38 @@
 
 </div>
 
----
+## About Me
 
-## 👨‍💻 About Me
+<div align="center">
 
-```python
-shashikant = {
-    "name": "Shashikant",
-    "location": "India 🇮🇳",
-    "institute": "IIT Madras 🏛️",
-    "degree": "BS Data Science & Applications",
-    "current_level": "Diploma / Undergraduate Level",
-    
-    "interests": [
-        "Data Science",
-        "Machine Learning",
-        "Artificial Intelligence",
-        "Full Stack Development",
-        "Problem Solving"
-    ],
+### Building at the intersection of Data, AI & Software Engineering
 
-    "currently_learning": [
-        "Machine Learning",
-        "Linear Algebra",
-        "Statistics",
-        "DSA",
-        "Flask",
-        "Vue.js",
-        "Generative AI"
-    ],
+**BS Data Science & Applications @ IIT Madras**
 
-    "building": [
-        "Web Applications",
-        "Data-driven Projects",
-        "AI-powered Applications"
-    ],
+</div>
 
-    "goal": "Become a strong Data Scientist & AI Engineer 🚀",
+I’m **Shashikant**, a Data Science student at **IIT Madras** focused on building practical software and intelligent systems.
 
-    "available_for": [
-        "Internships",
-        "Collaborations",
-        "Open Source Projects"
-    ]
-}
-```
+My interests sit at the intersection of **Data Science, Machine Learning, Artificial Intelligence, and Full-Stack Engineering**. I enjoy going beyond tutorials — understanding the underlying concepts, building projects from scratch, debugging them, and continuously improving the implementation.
+
+### What I Work With
+
+```text
+DATA & AI
+Python • NumPy • Pandas • Matplotlib • Scikit-learn
+Machine Learning • Statistics • Generative AI
+
+SOFTWARE ENGINEERING
+Python • Flask • Vue.js • JavaScript
+REST APIs • HTML • CSS • Bootstrap
+
+DATA & TOOLS
+SQLite • MySQL • Git • GitHub • VS Code • Jupyter
+
+FOUNDATIONS
+Data Structures & Algorithms
+Linear Algebra • Probability • Statistics
+Problem Solving
 
 ### 🚀 What I'm Working On
 
@@ -120,9 +107,6 @@ shashikant = {
 | :---------------------------------- | :----------------------------------------------------------------------------------------- | :----------------------------------------------- |
 | **Placement Portal Application**    | Campus placement management system for students, companies and administrators              | Flask · Jinja2 · HTML · CSS · Bootstrap · SQLite |
 | **Trekking Management Application** | Web application for managing trekking registrations, slots and administrative operations   | Vue.js · JavaScript · Flask                      |
-| **ArenaMind AI**                    | AI-powered smart stadium concept focused on crowd intelligence and multilingual assistance | Python · GenAI · APIs                            |
-| **LeetCode Challenges**             | Regular DSA and programming practice to improve problem-solving skills                     | Python                                           |
-
 </div>
 
 ### 🔗 Project Repositories
@@ -132,13 +116,6 @@ shashikant = {
 
 * 🏔️ **Trekking Management Application**
   https://github.com/23F3003320-shashikant/trekking-management-application
-
-* 🤖 **ArenaMind AI**
-  https://github.com/23F3003320-shashikant/ArenaMind
-
-* 🧠 **DSA / Coding Challenges**
-  https://github.com/23F3003320-shashikant/challenges
-
 ---
 
 # ⚡ Tech Stack
