@@ -2,7 +2,7 @@
 
 <!-- ANIMATED HEADER -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:24243e,100:0f0c29&height=240&section=header&text=Shashikant&fontSize=54&fontColor=ffffff&fontAlignY=35&desc=BS%20Data%20Science%20%40%20IIT%20Madras%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast&descAlignY=55&descSize=18&animation=fadeIn&stroke=a78bfa&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:24243e,100:0f0c29&height=240&section=header&text=Shashikant&fontSize=54&fontColor=ffffff&fontAlignY=35&desc=BS%20Data%20Science%20%40%20IIT%20Madras%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20AI%20%E2%80%A2%20Full-Stack%20Development&descAlignY=55&descSize=18&animation=fadeIn&stroke=a78bfa&strokeWidth=2" />
 
 <!-- TYPING SVG -->
 
@@ -40,23 +40,22 @@
 
 </div>
 
-## About Me
+About Me
 
 <div align="center">
 
-### Building at the intersection of Data, AI & Software Engineering
+Building at the intersection of Data, AI & Software Engineering
 
-**BS Data Science & Applications @ IIT Madras**
+BS Data Science & Applications @ IIT Madras
 
 </div>
 
-I’m **Shashikant**, a Data Science student at **IIT Madras** focused on building practical software and intelligent systems.
+I’m Shashikant, a Data Science student at IIT Madras focused on building practical software and intelligent systems.
 
-My interests sit at the intersection of **Data Science, Machine Learning, Artificial Intelligence, and Full-Stack Engineering**. I enjoy going beyond tutorials — understanding the underlying concepts, building projects from scratch, debugging them, and continuously improving the implementation.
+My interests sit at the intersection of Data Science, Machine Learning, Artificial Intelligence, and Full-Stack Engineering. I enjoy going beyond tutorials — understanding the underlying concepts, building projects from scratch, debugging them, and continuously improving the implementation.
 
-### What I Work With
+What I Work With
 
-```text
 DATA & AI
 Python • NumPy • Pandas • Matplotlib • Scikit-learn
 Machine Learning • Statistics • Generative AI
@@ -106,7 +105,9 @@ Problem Solving
 | 🏗️ Project                         | 📋 Description                                                                             | 🛠️ Technologies                                 |
 | :---------------------------------- | :----------------------------------------------------------------------------------------- | :----------------------------------------------- |
 | **Placement Portal Application**    | Campus placement management system for students, companies and administrators              | Flask · Jinja2 · HTML · CSS · Bootstrap · SQLite |
-| **Trekking Management Application** | Web application for managing trekking registrations, slots and administrative operations   | Vue.js · JavaScript · Flask                      |
+| **Trekking Management Application** | Web application for managing trekking registrations, slots and administrative operations | Vue.js · JavaScript · Flask |
+| **ArenaMind AI** | GenAI-powered smart stadium concept focused on crowd intelligence and multilingual assistance | Python · GenAI · APIs |
+| **DSA Challenges** | Algorithm and data-structure practice to strengthen problem-solving skills | Python |
 </div>
 
 ### 🔗 Project Repositories
@@ -116,6 +117,13 @@ Problem Solving
 
 * 🏔️ **Trekking Management Application**
   https://github.com/23F3003320-shashikant/trekking-management-application
+
+* 🤖 **ArenaMind AI**
+  https://github.com/23F3003320-shashikant/ArenaMind
+
+* 🧠 **DSA Challenges**
+  https://github.com/23F3003320-shashikant/challenges
+
 ---
 
 # ⚡ Tech Stack
@@ -124,34 +132,33 @@ Problem Solving
 
 ## 📊 Data Science & AI
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge\&logo=python\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ## 🌐 Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## 🗄️ Database
 
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## 🛠️ Development Tools
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -195,7 +202,7 @@ Problem Solving
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=23F3003320-shashikant\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=8\&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=23F3003320-shashikant&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
 
 </div>
 
@@ -219,7 +226,7 @@ Problem Solving
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=23F3003320-shashikant\&bg_color=0d1117\&color=a78bfa\&line=a78bfa\&point=ffffff\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=23F3003320-shashikant&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -229,7 +236,7 @@ Problem Solving
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
