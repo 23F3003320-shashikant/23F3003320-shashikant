@@ -39,8 +39,9 @@
 <img src="https://komarev.com/ghpvc/?username=23F3003320-shashikant&color=a78bfa&style=for-the-badge&label=Profile+Views" />
 
 </div>
-
+<div align="center">
 About Me
+</div>
 
 <div align="center">
 
@@ -106,8 +107,6 @@ Problem Solving
 | :---------------------------------- | :----------------------------------------------------------------------------------------- | :----------------------------------------------- |
 | **Placement Portal Application**    | Campus placement management system for students, companies and administrators              | Flask · Jinja2 · HTML · CSS · Bootstrap · SQLite |
 | **Trekking Management Application** | Web application for managing trekking registrations, slots and administrative operations | Vue.js · JavaScript · Flask |
-| **ArenaMind AI** | GenAI-powered smart stadium concept focused on crowd intelligence and multilingual assistance | Python · GenAI · APIs |
-| **DSA Challenges** | Algorithm and data-structure practice to strengthen problem-solving skills | Python |
 </div>
 
 ### 🔗 Project Repositories
@@ -117,13 +116,6 @@ Problem Solving
 
 * 🏔️ **Trekking Management Application**
   https://github.com/23F3003320-shashikant/trekking-management-application
-
-* 🤖 **ArenaMind AI**
-  https://github.com/23F3003320-shashikant/ArenaMind
-
-* 🧠 **DSA Challenges**
-  https://github.com/23F3003320-shashikant/challenges
-
 ---
 
 # ⚡ Tech Stack
