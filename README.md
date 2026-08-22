@@ -197,12 +197,12 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=23F3003320-shashikant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" />
-<img height="180" src="https://streak-stats.demolab.com/?user=23F3003320-shashikant&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=23F3003320-shashikant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=23F3003320-shashikant&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 
 <br/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23F3003320-shashikant&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=23F3003320-shashikant&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
 
 </div>
 
