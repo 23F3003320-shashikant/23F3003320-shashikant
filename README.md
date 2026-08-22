@@ -216,7 +216,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=23F3003320-shashikant&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=23F3003320-shashikant&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=6)
 
 </div>
 
