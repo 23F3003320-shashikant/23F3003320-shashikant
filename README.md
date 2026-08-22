@@ -52,22 +52,38 @@
 
 <h2 align="center">🧑‍💻 About Me</h2>
 
-<p align="center"><em>Building at the intersection of Data, AI & Software Engineering</em></p>
-<p align="center"><strong>BS Data Science & Applications @ IIT Madras</strong></p>
+<p align="center">
+  <em>Building at the intersection of <strong>Data · AI · Software Engineering</strong></em><br/>
+  <strong>BS Data Science & Applications @ IIT Madras 🏛️</strong>
+</p>
 
 <br/>
 
-```python
-shashikant = {
-    "institute"  : "Indian Institute of Technology Madras 🏛️",
-    "degree"     : "BS Data Science & Applications",
-    "interests"  : ["Data Science", "Machine Learning", "AI", "Full-Stack Engineering"],
-    "approach"   : "Beyond tutorials — build, debug, understand, improve 🔁",
-    "currently"  : ["Python & DS", "ML & GenAI", "Flask + Vue.js", "DSA", "Linear Algebra"],
-    "available"  : True,   # open to internships & collaborations
-    "fun_fact"   : "I build real projects, not just watch videos about them 🛠️"
-}
-```
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+
+### 👨‍🎓 Who I Am
+- 🏛️ **IIT Madras** — BS Data Science & Applications
+- 🌍 Based in **India**
+- 🔭 Focused on **Data, ML, AI & Full-Stack**
+- 💡 I go beyond tutorials — I **build, debug & ship**
+- 🤝 Open to **Internships & Collaborations**
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🔥 What I'm Doing Now
+- 🐍 Sharpening **Python & Data Science**
+- 🤖 Exploring **Machine Learning & GenAI**
+- 🌐 Building apps with **Flask + Vue.js**
+- 🧠 Practising **DSA daily**
+- 📐 Mastering **Linear Algebra & Statistics**
+- ☁️ Targeting **MLOps & Cloud** next
+
+    </td>
+  </tr>
+</table>
 
 <br/>
 
